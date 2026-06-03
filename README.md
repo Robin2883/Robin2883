@@ -1,10 +1,37 @@
-- 👋 Hi, I’m @Robin2883
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I'm Robin
 
-<!---
-Robin2883/Robin2883 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+I am a beginner Machine Learning Engineer, who is passionate about data, algorithms, and building real-world AI solutions.  
+I enjoy learning by doing and continuously improving my skills through hands-on projects.
+
+---
+
+## 🎯 What I'm Currently Working On
+- 📊 Building Machine Learning projects (Regression, Classification, etc.)
+- 🚀 Working on ML Ops and model deployment
+- ☁️ Learning how to deploy ML models into production environments
+- 🧠 Strengthening my understanding of Data Science fundamentals
+- 🔍 Exploring real-world datasets and model optimization techniques
+- 🐍 Improving my problem-solving skills with Python
+
+---
+
+## 🛠️ Tools & Technologies I Use
+- 🐍 Python
+- 📦 NumPy, Pandas
+- 📊 Matplotlib, Seaborn
+- 🤖 Scikit-learn
+- 📓 Jupyter Notebook
+- 💻 Visual Studio Code
+- 🔧 Git & GitHub
+- 🐳 Docker
+- ☁️ AWS
+
+---
+
+## 📌 Goals
+To become a skilled Machine Learning Engineer and contribute to impactful AI-driven projects.
+
+---
+
+⭐ Always learning, always building!
