@@ -36,6 +36,8 @@ To become a skilled Machine Learning Engineer and contribute to impactful AI-dri
 
 ⭐ Always learning, always building!
 
-![img_alt] (https://github.com/Robin2883/Robin2883/blob/d2241478bc54950a099159c61b8b9f22314471d5/customer_churn.png)
+## 📊 Project Overview
+
+![Telco Customer Churn](https://raw.githubusercontent.com/Robin2883/Robin2883/d2241478bc54950a099159c61b8b9f22314471d5/customer_churn.png)
 
 
