@@ -36,7 +36,7 @@ To become a skilled Machine Learning Engineer and contribute to impactful AI-dri
 
 ⭐ Always learning, always building!
 
-## 📊 Project Overview
+## 📊 Built an end-to-end Customer Churn Prediction system to identify customers likely to leave a telecom service using machine learning. The project includes data preprocessing, feature engineering, and model training with XGBoost. A Gradio-based interface is used for interactive real-time predictions.
 
 ![Telco Customer Churn](https://raw.githubusercontent.com/Robin2883/Robin2883/d2241478bc54950a099159c61b8b9f22314471d5/customer_churn.png)
 
